@@ -1,0 +1,23 @@
+body {
+font-family: Arial, sans-serif;
+margin: 40px;
+background-color: #90C67C;
+}
+
+label {
+display: block;
+margin-top: 10px;
+font-weight: bold;
+}
+
+input, textarea, select {
+width: 300px;
+padding: 8px;
+margin-top: 5px;
+}
+
+.errors {
+color: red;
+list-style: none;
+padding: 0;
+}
